@@ -13,7 +13,9 @@ Tutorial of thingsboard，thingsboard 框架教程
 我们将展示如何监测建筑物不同部位的温度，在温度超过一定阈值时提高警报器，并将收集到的数据和警报可视化。
 
 参考：
-[下载源码](https://github.com/thingsboard/thingsboard/releases)
-[源码导入教程-相继上一篇，thingsboard的二次开发环境配置和简单的logo替换](https://blog.csdn.net/liuli283/article/details/93466756)
+- [下载源码](https://github.com/thingsboard/thingsboard/releases)
+- [源码导入教程-相继上一篇，thingsboard的二次开发环境配置和简单的logo替换](https://blog.csdn.net/liuli283/article/details/93466756)
+- [下载IDEA社区版]（https://download.jetbrains.8686c.com/idea/ideaIC-2019.3.exe）
+- [下载postgresql11](https://get.enterprisedb.com/postgresql/postgresql-11.1-1-windows-x64.exe)
 
 
