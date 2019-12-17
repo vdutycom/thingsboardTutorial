@@ -1,8 +1,8 @@
 # thingsboardTutorial
 Tutorial of thingsboard，thingsboard 框架教程
 
-######本教程的目标是演示最流行的ThingsBoard特性的基本用法。
-######您将学习如何：
+###### 本教程的目标是演示最流行的ThingsBoard特性的基本用法。
+###### 您将学习如何：
 - 在系统中提供资产和设备；
 - 定义资产和设备之间的关系；
 - 将数据从设备推送到ThingsBoard；
