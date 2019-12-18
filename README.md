@@ -22,3 +22,5 @@
 ##### 参考使用
 - [编译的坑1](https://www.cnblogs.com/danny-djy/p/9051714.html)
 - [源码研究](https://blog.csdn.net/julyqian/article/details/88081367)
+- [Win10环境下安装Thingsboard](https://blog.csdn.net/nebulaly/article/details/85219032)
+- [mac 下eclipse安装lombok插件](https://blog.csdn.net/kongtong2004/article/details/80054817)
