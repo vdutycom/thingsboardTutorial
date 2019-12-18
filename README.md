@@ -19,4 +19,6 @@
 - [下载postgresql11](https://get.enterprisedb.com/postgresql/postgresql-11.1-1-windows-x64.exe)
 - [ThingsBoard源码分析 —— 调试环境搭建](https://blog.csdn.net/julyqian/article/details/88081367)
 - [下载psadmin](https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v4.16/windows/pgadmin4-4.16-x86.exe)
-
+##### 参考使用
+- [编译的坑1](https://www.cnblogs.com/danny-djy/p/9051714.html)
+- [源码研究](https://blog.csdn.net/julyqian/article/details/88081367)
