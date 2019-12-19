@@ -24,6 +24,7 @@
 - [源码研究](https://blog.csdn.net/julyqian/article/details/88081367)
 - [Win10环境下安装Thingsboard](https://blog.csdn.net/nebulaly/article/details/85219032)
 - [mac 下eclipse安装lombok插件](https://blog.csdn.net/kongtong2004/article/details/80054817)
+- [ThingsBoard 开发环境搭建](https://blog.csdn.net/curly_d/article/details/89884604)
 ##### 使用问题
 - 如果出现/api/widgetType接口404，代码报Requested item wasn't found!是widgetType表为空
 可以：This is the link address for livedemo. https://demo.thingsboard.io/, After you sign in, open the widget library, then select one of the widget , then click the export button in the upper right corner to export the widget , and then import it into your widget library
