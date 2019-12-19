@@ -30,3 +30,8 @@
 - 如果出现/api/widgetType接口404，代码报Requested item wasn't found!是widgetType表为空
 可以：This is the link address for livedemo. https://demo.thingsboard.io/, After you sign in, open the widget library, then select one of the widget , then click the export button in the upper right corner to export the widget , and then import it into your widget library
 你注册登录https://demo.thingsboard.io/ 后(要能谷歌机器人验证)，打开部件库，然后选这某个部件，然后点击右上角的导出按钮导出部件，然后再导入导你的部件库
+- 默认账号：
+ThingsBoard 有三种账号，系统管理员、用户管理员和用户
+系统管理员：sysadmin@thingsboard.org / sysadmin
+用户管理员：tenant@thingsboard.org / tenant
+用户：customer@thingsboard.org / customer
