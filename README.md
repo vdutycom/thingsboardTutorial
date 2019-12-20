@@ -28,6 +28,7 @@
 - [物联网时代-跟着Thingsboard学IOT架构-MQTT设备协议](https://www.cnblogs.com/sanshengshui/p/11237695.html)
 - [开源的物联网技术平台thingsboard安装测试及使用步骤](https://blog.csdn.net/weixin_33835103/article/details/92034895)
 - [ThingsBoard使用笔记（2）模拟传感器发送MQTT并显示监控图表](https://blog.csdn.net/ieflex/article/details/97149225)
+- [MQTT Device API Reference](https://thingsboard.io/docs/reference/mqtt-api/#subscribe-to-attribute-updates-from-the-server)
 ##### 使用问题
 - 如果出现/api/widgetType接口404，代码报Requested item wasn't found!是widgetType表为空
 可以：This is the link address for livedemo. https://demo.thingsboard.io/, After you sign in, open the widget library, then select one of the widget , then click the export button in the upper right corner to export the widget , and then import it into your widget library
