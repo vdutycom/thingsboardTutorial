@@ -11,6 +11,9 @@
 - 通过电子邮件推动有关新警报的通知。
 本教程基于一个流行的设施监控用例。
 我们将展示如何监测建筑物不同部位的温度，在温度超过一定阈值时提高警报器，并将收集到的数据和警报可视化。
+##### 参考文档:
+- [thingsboard CE DOCS](https://thingsboard.io/docs/)
+- [RPC messaging](https://thingsboard.io/docs/reference/plugins/messaging/)
 
 ##### 参考下载：
 - [下载源码](https://github.com/thingsboard/thingsboard/releases)
