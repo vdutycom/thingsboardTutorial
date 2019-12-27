@@ -14,6 +14,7 @@
 ##### 参考文档:
 - [thingsboard CE DOCS](https://thingsboard.io/docs/)
 - [RPC messaging](https://thingsboard.io/docs/reference/plugins/messaging/)
+- [rule engine rpc-request-tutorial](https://thingsboard.io/docs/user-guide/rule-engine-2-0/tutorials/rpc-request-tutorial/)
 
 ##### 参考下载：
 - [下载源码](https://github.com/thingsboard/thingsboard/releases)
